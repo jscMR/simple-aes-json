@@ -1,12 +1,12 @@
 {
   "name": "simple-aes-json",
   "description": "ultra minimalistic nodejs AES-256 implementation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "node-cryptojs-aes": "^0.4.0"
   },
   "scripts": {
-    
+
     "test": "istanbul cover ./node_modules/.bin/_mocha test",
     "posttest": "istanbul check-coverage --statements 85 --branches 70 --functions 100 --lines 90 && rm -rf coverage",
     "prepublish": "npm test && npm prune"
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Manyroots/simple-aes.git"
+    "url": "https://github.com/Manyroots/simple-aes-json"
   }
 }

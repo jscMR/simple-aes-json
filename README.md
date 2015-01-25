@@ -3,8 +3,6 @@
 
 > Minimalistic nodejs AES-256 implementation.
 
-[![build status](https://secure.travis-ci.org/Manyroots/simple-aes.png)](http://travis-ci.org/Manyroots/simple-aes)
-
 ## Installation
 
 ```
