@@ -5,12 +5,15 @@
 
 ## Installation
 
-```
+```js
+
 npm install simple-aes-json --save
+
 ```
 
 ## Usage
-```
+
+```js
 var saj = require('simple-aes-json');
 
 // Encryption
