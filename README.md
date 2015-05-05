@@ -32,16 +32,16 @@ saj.decrypt(encryptedJSON,'passphrase',function(result){
 
 
 ## Credits
-[Manyroots](https://github.com/Manyroots/)
+[Jorge Serrano](https://github.com/jscMR/)
 
 ## License
 
-MIT © [ManyRoots](http://www.manyroots.com)
+MIT © 2015
 
 
 [npm-url]: https://npmjs.org/package/simple-aes-json
 [npm-image]: https://badge.fury.io/js/simple-aes-json.svg
-[travis-url]: https://travis-ci.org/Manyroots/simple-aes-json
-[travis-image]: https://travis-ci.org/Manyroots/simple-aes-json.svg?branch=master
-[daviddm-url]: https://david-dm.org/Manyroots/simple-aes-json.svg?theme=shields.io
-[daviddm-image]: https://david-dm.org/Manyroots/simple-aes-json
+[travis-url]: https://travis-ci.org/jscMR/simple-aes-json
+[travis-image]: https://travis-ci.org/jscMR/simple-aes-json.svg?branch=master
+[daviddm-url]: https://david-dm.org/jscMR/simple-aes-json.svg?theme=shields.io
+[daviddm-image]: https://david-dm.org/jscMR/simple-aes-json
